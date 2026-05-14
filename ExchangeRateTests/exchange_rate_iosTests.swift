@@ -1,6 +1,6 @@
 //
 //  exchange_rate_iosTests.swift
-//  exchange-rate-iosTests
+//  ExchangeRateTests
 //
 //  Created by Nonthawat Kanboon on 14/5/2569 BE.
 //

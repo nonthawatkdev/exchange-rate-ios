@@ -1,6 +1,6 @@
 //
 //  exchange_rate_iosApp.swift
-//  exchange-rate-ios
+//  ExchangeRate
 //
 //  Created by Nonthawat Kanboon on 14/5/2569 BE.
 //
