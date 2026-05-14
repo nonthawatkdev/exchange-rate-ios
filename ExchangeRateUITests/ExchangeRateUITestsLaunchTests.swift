@@ -1,5 +1,5 @@
 //
-//  exchange_rate_iosUITestsLaunchTests.swift
+//  ExchangeRateUITestsLaunchTests.swift
 //  ExchangeRateUITests
 //
 //  Created by Nonthawat Kanboon on 14/5/2569 BE.
@@ -7,7 +7,7 @@
 
 import XCTest
 
-final class exchange_rate_iosUITestsLaunchTests: XCTestCase {
+final class ExchangeRateUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

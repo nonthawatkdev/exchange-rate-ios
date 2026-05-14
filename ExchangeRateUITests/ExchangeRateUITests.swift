@@ -1,5 +1,5 @@
 //
-//  exchange_rate_iosUITests.swift
+//  ExchangeRateUITests.swift
 //  ExchangeRateUITests
 //
 //  Created by Nonthawat Kanboon on 14/5/2569 BE.
@@ -7,7 +7,7 @@
 
 import XCTest
 
-final class exchange_rate_iosUITests: XCTestCase {
+final class ExchangeRateUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
